@@ -22,7 +22,7 @@
 10. [Results Summary](#-results-summary)
 11. [Extending the System](#-extending-the-system)
 12. [Known Limitations](#-known-limitations)
-13. [Citation](#-citation)
+13. [Output Demo](#-Output Demo)
 
 
 ---

@@ -3,7 +3,7 @@
 > A Retrieval-Augmented Generation (RAG) system for multi-domain customer support, comparing **LLaMA**, **Mistral 7B**, and **Gemma** as LLM backends.
 
 **Course:** DSCI 6004 — Natural Language Processing, Spring 2025  
-**Authors:** Rohit · Jagadish Kumar Pakalapati  
+**Authors:** Rohit Kumar Sah and Jagadish Kumar Pakalapati  
 **Paper:** [`docs/rag_paper_final.docx`](docs/rag_paper_final.docx)
 
 ---

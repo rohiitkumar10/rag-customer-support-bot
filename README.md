@@ -4,7 +4,7 @@
 
 **Course:** DSCI 6004 — Natural Language Processing, Spring 2025  
 **Authors:** Rohit Kumar Sah and Jagadish Kumar Pakalapati  
-**Paper:** [`docs/rag_paper_final.docx`](docs/rag_paper_final.docx)
+**Paper:** [`docs/rag_paper_final.docx`](docs/NLP_Final_Report.docx)
 
 ---
 

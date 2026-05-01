@@ -427,19 +427,6 @@ def hybrid_search(query, alpha=0.5):
 
 ---
 
-## 📖 Citation
-
-If you use this project in your research or coursework, please cite:
-
-```bibtex
-@misc{rohit2025ragbot,
-  title   = {Trustworthy RAG-Powered Customer Support Bot: A Comparative Evaluation of LLaMA, Mistral, and Gemma},
-  author  = {Rohit and Pakalapati, Jagadish Kumar},
-  year    = {2025},
-  note    = {DSCI 6004 Course Project, Spring 2025},
-  url     = {https://github.com/YOUR_USERNAME/rag-customer-support-bot}
-}
-```
 
 ### Key References
 
@@ -451,10 +438,9 @@ If you use this project in your research or coursework, please cite:
 - Robertson & Zaragoza (2009). *The Probabilistic Relevance Framework: BM25 and Beyond.*
 
 ---
-
-## 📄 License
-
-This project is released for educational and research purposes under the [MIT License](LICENSE).
+### Output Demo
+<img width="1600" height="676" alt="image" src="https://github.com/user-attachments/assets/95f2b821-c777-42ef-9c07-3a80673944b4" />
+<img width="1600" height="696" alt="image" src="https://github.com/user-attachments/assets/5e6a7629-f4b6-4b92-943e-17208701d780" />
 
 ---
 
